@@ -16,7 +16,6 @@ The HR Dashboard is a powerful and interactive analytics tool developed using Po
 **Overview**  
 The HR Dashboard offers a comprehensive view of key HR metrics and provides interactive visualizations to analyze HR data effectively. It showcases essential KPIs such as overall employees, attrition rate, active employees, and average age. The dashboard enables HR professionals to explore insights related to attrition, department-wise analysis, and job satisfaction, among others.
 
-![1](https://github.com/DeveshGaonkar/HR_Dashboard/assets/138006145/3bd47f9d-ccc0-4781-9827-78546c0fd5d7)
 
 **Getting Started**  
 
@@ -44,7 +43,6 @@ The HR Metrics section showcases key HR indicators, including overall employees,
 Attrition Analysis  
 The Attrition Analysis section provides detailed insights into employee attrition. Interactive visualizations allow HR professionals to analyze attrition rates by gender for different age groups, employee count by age group, and key influencers of attrition. These visualizations help identify potential attrition risk factors and develop targeted retention strategies.
 
-![2](https://github.com/DeveshGaonkar/HR_Dashboard/assets/138006145/5943aa48-00c8-4bdc-8c30-47d9bdb2fa91)
 
 Department-wise Analysis  
 The Department-wise Analysis section focuses on analyzing attrition and other HR metrics across different departments. Visualizations and tables present attrition analysis by the department and job role, enabling HR professionals to identify departments with high attrition rates and take proactive measures to retain top talent.
@@ -52,7 +50,6 @@ The Department-wise Analysis section focuses on analyzing attrition and other HR
 Job Satisfaction Analysis  
 The Job Satisfaction Analysis section offers an in-depth exploration of job satisfaction within the organization. Tables provide analysis of job satisfaction by age range, allowing HR professionals to identify patterns and correlations between job satisfaction and age. This information can be used to improve employee engagement and retention.
 
-![3](https://github.com/DeveshGaonkar/HR_Dashboard/assets/138006145/252619b6-ce56-4b7c-95a5-0f11c22c0e0a)
 
 
 **Using the Dashboard**   
