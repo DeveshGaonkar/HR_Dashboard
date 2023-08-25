@@ -24,11 +24,11 @@ Before using the HR Dashboard, ensure that you have the following prerequisites:
 
 &nbsp;&nbsp;1. Power BI Desktop installed on your computer.   
 &nbsp;&nbsp;2. You can download it from the official Power BI website (https://powerbi.microsoft.com/).  
-&nbsp;&nbsp;3. A suitable dataset containing HR data, which will serve as the data source for the dashboard.   
+&nbsp;&nbsp;3. A suitable dataset containing HR data will serve as the data source for the dashboard.   
 
 Installation  
 
-&nbsp;&nbsp;1. Download the HR Dashboard files from the project repository on GitHub (provide the link to your GitHub repository).  
+&nbsp;&nbsp;1. Download the HR Dashboard files from the project repository on GitHub.  
 &nbsp;&nbsp;2. Extract the downloaded files to a local directory.  
 &nbsp;&nbsp;3. Open Power BI Desktop.  
 &nbsp;&nbsp;4. Click on "File" in the menu bar and select "Open" to browse for the extracted dashboard file (.pbix format).  
