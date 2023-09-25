@@ -16,6 +16,8 @@ The HR Dashboard is a powerful and interactive analytics tool developed using Po
 **Overview**  
 The HR Dashboard offers a comprehensive view of key HR metrics and provides interactive visualizations to analyze HR data effectively. It showcases essential KPIs such as overall employees, attrition rate, active employees, and average age. The dashboard enables HR professionals to explore insights related to attrition, department-wise analysis, and job satisfaction, among others.
 
+![1](https://github.com/DeveshGaonkar/HR_Dashboard/assets/138006145/c769e46f-4545-49e0-aaca-7b90c583e9a7)
+
 
 **Getting Started**  
 
@@ -43,6 +45,8 @@ The HR Metrics section showcases key HR indicators, including overall employees,
 Attrition Analysis  
 The Attrition Analysis section provides detailed insights into employee attrition. Interactive visualizations allow HR professionals to analyze attrition rates by gender for different age groups, employee count by age group, and key influencers of attrition. These visualizations help identify potential attrition risk factors and develop targeted retention strategies.
 
+![2](https://github.com/DeveshGaonkar/HR_Dashboard/assets/138006145/be70ce7f-ee59-45fb-961f-a72736d0d61d)
+
 
 Department-wise Analysis  
 The Department-wise Analysis section focuses on analyzing attrition and other HR metrics across different departments. Visualizations and tables present attrition analysis by the department and job role, enabling HR professionals to identify departments with high attrition rates and take proactive measures to retain top talent.
@@ -50,6 +54,7 @@ The Department-wise Analysis section focuses on analyzing attrition and other HR
 Job Satisfaction Analysis  
 The Job Satisfaction Analysis section offers an in-depth exploration of job satisfaction within the organization. Tables provide analysis of job satisfaction by age range, allowing HR professionals to identify patterns and correlations between job satisfaction and age. This information can be used to improve employee engagement and retention.
 
+![3](https://github.com/DeveshGaonkar/HR_Dashboard/assets/138006145/6e679b99-db4e-488a-8312-eccc17f15afa)
 
 
 **Using the Dashboard**   
@@ -75,6 +80,6 @@ The HR Dashboard empowers organizations to unlock valuable HR insights, optimize
 
 **Additional Resources**  
 
-[Link to the HR Dashboard project.](https://app.powerbi.com/reportEmbed?reportId=f279b2ec-81e9-45d4-bee2-a25dbdf18993&autoAuth=true&ctid=b548b9e2-466a-4d81-903b-24cf8cc5e37e)  
+[Link to the HR Dashboard project.](https://app.powerbi.com/view?r=eyJrIjoiYTU3ZTM2ZmUtMDkwZC00ZDc2LWE3MzYtMzJmMDNjZTBjMTNjIiwidCI6ImI1NDhiOWUyLTQ2NmEtNGQ4MS05MDNiLTI0Y2Y4Y2M1ZTM3ZSJ9)  
 [Documentation or tutorials on using Power BI Desktop.](https://learn.microsoft.com/en-us/power-bi/fundamentals/service-get-started)  
 [Websites offering datasets for analysis and exploration.](https://www.kaggle.com/)  
